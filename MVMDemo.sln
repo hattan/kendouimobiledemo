@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{00000000-0000-0000-0000-000000000000}") = "MVMDemo", "MVMDemo\MVMDemo.proj", "{88D61313-DC28-4472-A114-09FC1DA05DAC}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D61313-DC28-4472-A114-09FC1DA05DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D61313-DC28-4472-A114-09FC1DA05DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D61313-DC28-4472-A114-09FC1DA05DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D61313-DC28-4472-A114-09FC1DA05DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
